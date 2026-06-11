@@ -1,0 +1,67 @@
+body{
+  background-color: rgb(0, 0, 0);
+}
+h1{
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+    text-align: center;
+     text-shadow: 20px 20px 20px rgb(245, 0, 0);
+}
+h2{
+    font-size: 40px;
+    color: rgb(255, 0, 0);
+    text-shadow: 20px 20px 20px rgb(255, 0, 0);
+}
+
+#div1{
+    font-size: 40px;
+    text-align: center;
+    h2{text-shadow: 20px 20px 20px  rgb(rgb(255, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0));
+}
+p{
+    color: rgb(255, 255, 255);
+}
+}
+
+
+
+
+
+#div2{
+    p2{font-size: 40px;
+    color: rgb(255, 255, 255);
+    
+}
+  
+    
+h3{
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    text-shadow: 20px 20px 20px     rgb(255, 0, 0);
+}
+p3{
+    font-size: 40px;
+color: rgb(255, 255, 255);
+}
+
+
+h4{ text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+    text-shadow: 20px 20px 20px red;
+}
+
+}
+
+img{
+    margin: auto;
+    display: block;
+    border-radius: 20PX;
+   box-shadow: 20px 20px 20px rgb(248, 235, 235);
+}
+
+div{
+    border: 5px solid rgb(255, 255, 255);
+    margin-top: 20px;
+}
